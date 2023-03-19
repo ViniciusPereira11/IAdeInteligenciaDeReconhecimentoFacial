@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(rgb(101, 101, 255), rgb(243, 243, 128), rgb(253, 74, 74))
+}
+#camera{
+    border: 2px dashed brown;
+    width: 350px;
+    height:300px;
+}
+#result{
+    display: none;
+    background-color: lightpink;
+    width: 350px;
+    height: 300px;
+}
+
+
+
